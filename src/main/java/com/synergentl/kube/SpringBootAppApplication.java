@@ -1,4 +1,4 @@
-package com.synergentl.kube.springbootapp;
+package com.synergentl.kube;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
